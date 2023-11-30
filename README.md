@@ -35,3 +35,5 @@ This Python script automates the process of finding `.als` (Ableton Live Set) fi
 Contributions to this project are welcome. Please feel free to fork, modify, and make pull requests or open issues for any improvements or issues encountered.
 
 
+## License
+This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for details.
